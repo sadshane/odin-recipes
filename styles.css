@@ -1,0 +1,19 @@
+h1 {
+    text-align: center;
+    font-family: 'Lucida Sans', sans-serif;
+    font-size: xx-large;
+}
+
+body {
+    background-color: #FFFDD0;
+}
+
+ul {
+    font-size: xx-large;
+}
+
+.container {
+    border-radius: 10px;
+    background-color: #92A1B3;
+    padding: 5px;
+}
