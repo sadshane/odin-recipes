@@ -1,6 +1,52 @@
 body {
+    box-sizing: border-box;
     font-size: x-large;
     font-family: 'Lucida Sans', Verdana, sans-serif;
+    background: linear-gradient(to bottom, #F2BED1, #FDCEDF);
+    /* border: 2px solid black; */
+    padding: 0px 300px;
 }
 
+* {
+    /* border: 2px solid black; */
+}
 
+img {
+    border-radius: 10px;
+}
+
+.intro {
+    text-align: center;
+}
+
+p {
+    display: inline;
+    /* border: 1px solid black; */
+}
+
+ul, ol{
+    list-style: none;
+    padding: 0px 300px;
+}
+
+.ingredients,
+.description,
+.steps,
+.intro {
+    background-color: #F8E8EE;
+    border-radius: 10px;
+    margin: 20px 0px;
+    padding: 20px 30px;
+}
+
+li {
+    margin: 10px 0px;
+}
+
+h2 {
+    text-align: center;
+}
+
+ol li {
+    margin: 20px 0px;
+}
