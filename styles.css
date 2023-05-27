@@ -2,9 +2,11 @@ body {
     box-sizing: border-box;
     /* border: 2px solid black; */
     background: linear-gradient(to bottom, #F2BED1, #FDCEDF);
+    height: 100%;
 }
- * {
+ html {
     /* border: 1px solid black; */
+    height: 100%;
  }
 
 .nav {
